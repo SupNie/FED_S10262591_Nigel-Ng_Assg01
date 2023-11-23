@@ -107,6 +107,21 @@ nav .fa{
         padding: 32px;
     }
 }
+.sponsor{
+    margin: 100px auto;
+    width: 81%;
+    background-image: linear-gradient(rgba(0,0,1,0.3),rgba(0,0,1,0.3)),url(images/sponsorship.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 11px;
+    text-align: center;
+    padding: 100px 0;
+}
+.sponsor h1{
+    color: white;
+    margin-bottom: 41px;
+    padding: 0;
+}
 .footer{
     width: 100%;
     text-align: center;
@@ -129,7 +144,7 @@ nav .fa{
 }
 .lo-image{
     width: 1200px;
-    height: 450px;
+    height: 250px;
 }
 /*--Courses to choose--*/
 .course{
