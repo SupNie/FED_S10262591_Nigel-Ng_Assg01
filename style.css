@@ -75,7 +75,7 @@ nav img{
 nav .fa{
     display: none;
 }
-@media(max-width: 500px){
+@media screen and (max-width: 500px){
     .text-box h1{
         font-size: 21px;
     }
