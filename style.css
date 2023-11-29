@@ -95,7 +95,7 @@ nav .fa{
         right: -200px;
         text-align: left;
         z-index: 2;
-        transition: 2s;
+        transition: 1s;
     }
     nav .fa{
         display: block;
@@ -106,16 +106,6 @@ nav .fa{
     .nav-links{
         padding: 32px;
     }
-}
-.sponsor{
-    margin: 100px auto;
-    width: 81%;
-    background-image: linear-gradient(rgba(0,0,1,0.3),rgba(0,0,1,0.3)),url(images/sponsorship.png);
-    background-position: center;
-    background-size: cover;
-    border-radius: 11px;
-    text-align: center;
-    padding: 100px 0;
 }
 .sponsor h1{
     color: white;
